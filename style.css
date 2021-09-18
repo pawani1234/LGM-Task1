@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&display=swap');
+
+html,body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Allison', cursive; 
+
+}
+
+.home{
+    text-align: center;
+    padding: 30px 30px;
+    color:  white;
+    background-color: orange;
+    
+}
+.note1{
+    text-align: center;
+    padding: 20px;
+    background-color: orange;
+    color: white;
+}
+.welcomenote{
+    text-align: center;
+   font-style: italic;
+   padding: 20px;
+}
+
+
+.projects{
+    text-align: center;
+    background-color: orange;
+    color: white;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.protext{
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    padding: 20px;
+}
+
+.price{
+    text-align: center;
+    background-color: orange;
+    color: white;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.news{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZ2jQOMDkik955pf3OdnwG8hXfu5Nk6DQ_g&usqp=CAU);
+    position: relative;
+  padding-top: 150px;
+  text-align: center;
+  padding-bottom: 150px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+ 
+}
+
+
+.contact-form{
+    
+    background-color: #f7d850;
+    padding: 40px;
+    width:1000px;
+    height: 580px;
+
+  }
+
+  .textarea{
+    height: 100px;
+   
+  }
+
+  input[type=text],textarea{
+    width: 50%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 15px;
+    resize: vertical;
+  }
+
+  .btns{
+   width: 465px;
+  }
+
+  
